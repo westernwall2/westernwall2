@@ -1,4 +1,4 @@
-## oi eu sou a Jeferson Costa, criadora de conteúdo de programação e tecnologia!
+## Bem vindo! sou o Jeferson Costa, criadora da Aliança Dev.
 <div align="center">
   <a href="https://github.com/westernwall2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=westernwall2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
