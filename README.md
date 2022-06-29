@@ -1,8 +1,8 @@
 ## Bem vindo! sou Jeferson Costa, criador da Aliança Dev.
-  <details>
-  <details>
-  </details>
-  </details> 
+ <details>
+ <summary>Saiba Mais</summary>
+ 
+</details>
   
   ##
   
