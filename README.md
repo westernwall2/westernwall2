@@ -2,7 +2,14 @@
 <details>
  <summary>Saiba Mais</summary>
   <h3 style="color:red;">Sou Jeferson Costa, criador da Aliança Dev.</h3>
-  <p></p>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="MSSQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+</div>
  </details>
   
   ##
@@ -12,15 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=westernwall2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=westernwall2&layout=compact&langs_count=7&theme=dark"/>
   </a>
-</div>
-
-##
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="33" width="33" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="30" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
 </div>
   
   ##
