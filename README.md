@@ -1,5 +1,5 @@
-<h1>Bem vindo!</h1>
-<details>
+<h1 align="center">Bem vindo!</h1>
+<details align="center">
  <summary>Saiba Mais</summary>
   <h3>Sou Jeferson Costa, criador da Aliança Dev.</h3>
   <div style="display: inline_block"><br>
