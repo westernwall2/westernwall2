@@ -5,10 +5,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=westernwall2&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  <div>
   <details>
   <summary>Alguns detalhes</summary>
   <p>Mais informações sobre os detalhes.</p>
-</details>
+  </details>
+  </div>
   
   ##
   
