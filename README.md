@@ -1,8 +1,8 @@
 <h1>Bem vindo!</h1>
-
 <details>
  <summary>Saiba Mais</summary>
-  <h2>Sou Jeferson Costa, criador da Aliança Dev.</h3>
+  <h3 style="color:red;">Sou Jeferson Costa, criador da Aliança Dev.</h3>
+  <p></p>
  </details>
   
   ##
